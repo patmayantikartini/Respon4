@@ -16,7 +16,7 @@ use App\Http\Controllers\crud;
 */
 
 
-Route::get('/', function () {
+Route::get('/beramda', function () {
     return view('welcome');
 
 });
