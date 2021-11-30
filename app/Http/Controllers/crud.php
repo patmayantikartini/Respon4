@@ -17,4 +17,8 @@ class crud extends Controller
         ]);
         return ('berhasil ditambah');
     }
+
+    public function hai() {
+        
+    }
 }
