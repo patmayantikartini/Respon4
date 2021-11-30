@@ -19,6 +19,7 @@ class crud extends Controller
     }
 
     public function hai() {
+        //stashtest
         
     }
 }
