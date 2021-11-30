@@ -1,0 +1,12 @@
+<?php
+
+use Illuminate\Http\Request;
+use App\Models\buku;
+
+class stash extends Controller
+{
+    public function stash() {
+    
+    hai
+        }
+        }
