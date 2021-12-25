@@ -28,5 +28,5 @@ Route::get('/', function () {
 
 Route::get('/tambah-data', [crud::class,'tambah']);
 
-// Route::get('/buku/{isbn}', 'BukuController@show');
+Route::get('/buku/{isbn}', 'BukuController@show');
 
