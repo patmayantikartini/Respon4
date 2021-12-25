@@ -22,7 +22,7 @@ Route::get('/', function () {
 });
 
 // Route::get('/buku/create', 'BukuController@create');
-// Route::get('/buku', 'BukuController@index');
+Route::get('/buku', 'BukuController@index');
 // Route::post('/buku', 'BukuController@store');
 // Route::get('/buku/{id}', 'BukuController@show');
 
